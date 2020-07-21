@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.crealytics:spark-excel_2.11:0.12.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/com/crealytics/spark-excel_2.11/0.12.2/spark-excel_2.11-0.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
